@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>hpbcu</id>
+    <version>4.0.30.1</version>
+    <title>HP BIOS Configuration Utility (BCU)</title>
+    <authors>HP Inc</authors>
+    <owners>ducksecops</owners>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/HP_New_Logo_2D.svg/434px-HP_New_Logo_2D.svg.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/ducksecops/chocolatey-hpbcu</packageSourceUrl>
+    <description>This package provides the HP BIOS Configuration Utility (BCU) for supported notebook, desktop, and workstation models that are running a supported operating system.</description>
+    <summary>HP BIOS Configuration Utility (BCU)</summary>
+    <copyright>HP Inc</copyright>
+    <tags>hpbcu BIOS Config Utility</tags>
+    <docsUrl>https://ftp.hp.com/pub/caps-softpaq/cmit/whitepapers/BIOS_Configuration_Utility_User_Guide.pdf</docsUrl>
+    <releaseNotes>https://ftp.hp.com/pub/caps-softpaq/cmit/HP_BCU.html</releaseNotes>
+    <projectUrl>https://ftp.hp.com/pub/caps-softpaq/cmit/HP_BCU.html</projectUrl>
+    <licenseUrl>https://ftp.hp.com/pub/caps-softpaq/cmit/HP_BCU.html</licenseUrl>
+  </metadata>
+</package>
